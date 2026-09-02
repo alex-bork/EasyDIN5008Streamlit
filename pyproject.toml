@@ -1,0 +1,10 @@
+[project]
+name = "easydin5008streamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pypandoc>=1.17",
+    "streamlit[pdf]>=1.63.0",
+]
